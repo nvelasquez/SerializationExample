@@ -1,0 +1,13 @@
+C:\Users\Nestor_Velasquez\Documents\Visual Studio 2012\Projects\MyStoreHomeWork\MyStoreHomeWork\bin\Debug\MyStoreHomeWork.exe.config
+C:\Users\Nestor_Velasquez\Documents\Visual Studio 2012\Projects\MyStoreHomeWork\MyStoreHomeWork\bin\Debug\MyStoreHomeWork.exe
+C:\Users\Nestor_Velasquez\Documents\Visual Studio 2012\Projects\MyStoreHomeWork\MyStoreHomeWork\bin\Debug\MyStoreHomeWork.pdb
+C:\Users\Nestor_Velasquez\Documents\Visual Studio 2012\Projects\MyStoreHomeWork\MyStoreHomeWork\obj\Debug\MyStoreHomeWork.csprojResolveAssemblyReference.cache
+C:\Users\Nestor_Velasquez\Documents\Visual Studio 2012\Projects\MyStoreHomeWork\MyStoreHomeWork\obj\Debug\MyStoreHomeWork.InvoiceForm.resources
+C:\Users\Nestor_Velasquez\Documents\Visual Studio 2012\Projects\MyStoreHomeWork\MyStoreHomeWork\obj\Debug\MyStoreHomeWork.Main.resources
+C:\Users\Nestor_Velasquez\Documents\Visual Studio 2012\Projects\MyStoreHomeWork\MyStoreHomeWork\obj\Debug\MyStoreHomeWork.ObjectList.resources
+C:\Users\Nestor_Velasquez\Documents\Visual Studio 2012\Projects\MyStoreHomeWork\MyStoreHomeWork\obj\Debug\MyStoreHomeWork.ProductsMantain.resources
+C:\Users\Nestor_Velasquez\Documents\Visual Studio 2012\Projects\MyStoreHomeWork\MyStoreHomeWork\obj\Debug\MyStoreHomeWork.Properties.Resources.resources
+C:\Users\Nestor_Velasquez\Documents\Visual Studio 2012\Projects\MyStoreHomeWork\MyStoreHomeWork\obj\Debug\MyStoreHomeWork.csproj.GenerateResource.Cache
+C:\Users\Nestor_Velasquez\Documents\Visual Studio 2012\Projects\MyStoreHomeWork\MyStoreHomeWork\obj\Debug\MyStoreHomeWork.exe
+C:\Users\Nestor_Velasquez\Documents\Visual Studio 2012\Projects\MyStoreHomeWork\MyStoreHomeWork\obj\Debug\MyStoreHomeWork.pdb
+C:\Users\Nestor_Velasquez\Documents\Visual Studio 2012\Projects\MyStoreHomeWork\MyStoreHomeWork\obj\Debug\MyStoreHomeWork.MDIParent1.resources
